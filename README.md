@@ -1,4 +1,4 @@
-### An automated workflow to screen CAZymes using dbCAN database.
+# An automated workflow to screen CAZymes using dbCAN database.
 
 Hi Folks! 😀
 
